@@ -1,22 +1,21 @@
-[![MasterHead](https://j.gifs.com/vO0xEx.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Khush Sanghavi</h1>
-<h3 align="center">A passionate android app developer from India!</h3>
+<h3 align="center">A final year student @VIT Vellore and an aspiring techno-functional!</h3>
 <p>&nbsp;</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-270303&label=Profile%20views&color=0e75b6&style=flat" alt="k-270303" /> </p>
 
-- 🌱 I’m currently learning **Kotlin , UI/UX design, Android app development**
+- 🌱 I’m currently learning **Product management, UI/UX design and just how to play around with different tech stacks!**
 
 - 📫 How to reach me **khushsanghavi2003gmail.com**
 
-- ⚡ Fun fact **Started app development only four months back**
+- ⚡ Fun fact **Used to think python is the greatest language of all time, then, I met Java**
 <p>&nbsp;</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khush sanghavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khush sanghavi" height="30" width="40" /></a> &nbsp;
-<a href="https://instagram.com/khush_sanghavi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khush_sanghavi_03" height="30" width="40" /></a>
 </p>
 <p>&nbsp;</p>
 <h3 align="left"><b>Languages and Tools:</b></h3>
